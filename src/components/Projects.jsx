@@ -5,7 +5,7 @@ import {
     FaExternalLinkAlt,
 } from "react-icons/fa";
 
-import novamart from "../assets/projects/novamart.png";
+import novamart from "../assets/Projects/novamart.png";
 
 const projects = [
     {
