@@ -6,7 +6,6 @@ import {
 } from "react-icons/fa";
 
 import novamart from "../assets/projects/novamart.png";
-import corporate from "../assets/projects/corporate.png";
 
 const projects = [
     {
