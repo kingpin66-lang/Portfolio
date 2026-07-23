@@ -7,7 +7,6 @@ import {
 
 import novamart from "../assets/projects/novamart.png";
 import corporate from "../assets/projects/corporate.png";
-import dashboard from "../assets/projects/dashboard.png";
 
 const projects = [
     {
